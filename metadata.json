@@ -1,0 +1,7 @@
+{
+  "name": "CleanView AI - Video Text Remover",
+  "description": "A high-end application that uses Gemini's Veo 3.1 generative video models to intelligently remove text, watermarks, and overlays from your videos while maintaining visual consistency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
